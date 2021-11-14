@@ -9,7 +9,22 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "PelkJO917XXHfqjiayzUmA=="
+          "hash": "F9mYAjXsxxB9rtvb6aDkmA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "H+/7Ov+q8SjYj8s03JgAXg=="
         }
       },
       "is_incremental": false,
@@ -17,47 +32,59 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/1_Konfiguracja ogólna pliku do księgowości.md",
+      "source_relative_path": "articles/1.md",
       "output": {
         ".html": {
-          "relative_path": "articles/1_Konfiguracja ogólna pliku do księgowości.html",
-          "hash": "lOrhvvrENKDPZW4HhwIFiw=="
+          "relative_path": "articles/1.html",
+          "hash": "Ukmo/NRQJh470SFPDr//5A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/2_ Konfiguracji dla danego pracownika.md",
+      "source_relative_path": "articles/2.md",
       "output": {
         ".html": {
-          "relative_path": "articles/2_ Konfiguracji dla danego pracownika.html",
-          "hash": "099bY1gteGe/w+HWg9u3Xw=="
+          "relative_path": "articles/2.html",
+          "hash": "9UixDgVv6r3/qdusB83r2Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/3_Konfiguracja definicji elementów wynagrodzenia.md",
+      "source_relative_path": "articles/3.md",
       "output": {
         ".html": {
-          "relative_path": "articles/3_Konfiguracja definicji elementów wynagrodzenia.html",
-          "hash": "xZJSKFXMhUPPH9+H2u/NFg=="
+          "relative_path": "articles/3.html",
+          "hash": "b1qnv3S2PO+MzzFDup7j0w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/4_Generowanie pliku do księgowości.md",
+      "source_relative_path": "articles/4.md",
       "output": {
         ".html": {
-          "relative_path": "articles/4_Generowanie pliku do księgowości.html",
-          "hash": "Z6fsaJZe665KkYd1rnSevg=="
+          "relative_path": "articles/4.html",
+          "hash": "oX6wbcjWtjVX+TpWfoaacA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html",
+          "hash": "oG7VeaF9oHiDh9VRd5TZ1w=="
         }
       },
       "is_incremental": false,
@@ -69,7 +96,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "w2P0iYW0eS35mGMRnWzDpw=="
+          "hash": "y7EvAEboPNbrIrnyt3YOHQ=="
         }
       },
       "is_incremental": false,
@@ -92,10 +119,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "ERsgS07fD95nFdYK9/0jhg=="
+          "hash": "+u2a4xVDhTxSQeXo3sznAQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -104,7 +131,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "xfUueQRgmRxPsyNckVLifw=="
+          "hash": "zv5eysNQ3O+oGYlDuuPTng=="
         }
       },
       "is_incremental": false,
@@ -123,8 +150,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 6,
-          "skipped_file_count": 1
+          "total_file_count": 7,
+          "skipped_file_count": 6
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
